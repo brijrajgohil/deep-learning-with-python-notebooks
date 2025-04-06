@@ -1,0 +1,5 @@
+# IPython/Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/.DS_Store/*
+.DS_Store
