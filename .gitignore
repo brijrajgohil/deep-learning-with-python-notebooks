@@ -5,3 +5,4 @@
 .DS_Store
 *.keras
 .ipynb_checkpoints/chapter10_dl-for-timeseries-checkpoint.ipynb
+*.keras
